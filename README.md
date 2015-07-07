@@ -1,0 +1,1 @@
+# synccloud.node-globals
