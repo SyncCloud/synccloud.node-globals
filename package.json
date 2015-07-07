@@ -1,4 +1,5 @@
 {
+  "name": "node-globals",
   "main": "lib/globals",
   "dependencies": {
     "bluebird": "^2.9.32",
